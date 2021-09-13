@@ -6,3 +6,4 @@ unzip terraform_0.11.11_linux_amd64.zip
 sudo mv terraform /usr/bin/terraform
 sudo terraform
 exit
+#terraform download script
